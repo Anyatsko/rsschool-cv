@@ -8,3 +8,7 @@
 * HTML and CSS
 * Photoshop
 * Service - focused
+## Education 
+IT-Academy Educational Center for Programming and High Tech:  Website development with HTML, CSS and JavaScript
+## Certifications
+*Website development with HTML, CSS and JavaScript*
